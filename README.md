@@ -1,16 +1,26 @@
-### Hi there 👋
+<div>
+  <h2 align="center">Hi there, I'm Vitor👋</h2>
+  <h4>:computer: I’m currently a Full-Stack Software Developer at Head5.</h4>
+  <h4>:pencil: I’m also a Computer Science student at Cotemig and Electrotechnical Technician by CEFET-MG.</h4>
+  <h4>:shipit: Always open to learn and collaborate on new projects!</h4>
+  <h4>:speech_balloon: You can contact me on my <a href="https://www.linkedin.com/in/vitor-monteiro-de-franca">Linkedin</a>!</h4>
+  <img align="center" alt="my GitHub profile views" src="https://komarev.com/ghpvc/?username=VitorDeFranca&color=blueviolet" />
+  
+</div>
 
-<!--
-**VitorDeFranca/VitorDeFranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Skills:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,html,css,azure" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Stats:</h3>
+<div align="center">
+  <a href="https://github.com/VitorDefranca">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDefranca&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=VitorDefranca&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+</div>
+
