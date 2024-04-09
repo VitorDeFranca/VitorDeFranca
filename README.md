@@ -1,6 +1,6 @@
 <div>
   <h2 align="center">Hi there, I'm Vitor👋</h2>
-  <h4>:computer: I’m currently a Full-Stack Software Developer at Head5.</h4>
+  <h4>:computer: I’m currently a Full-Stack Software Developer at CMU Trading.</h4>
   <h4>:pencil: I’m also a Computer Science student at Cotemig and Electrotechnical Technician by CEFET-MG.</h4>
   <h4>:shipit: Always open to learn and collaborate on new projects!</h4>
   <h4>:speech_balloon: You can contact me on my <a href="https://www.linkedin.com/in/vitor-monteiro-de-franca">Linkedin</a>!</h4>
